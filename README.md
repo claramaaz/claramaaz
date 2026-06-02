@@ -83,6 +83,21 @@ Windows Forms app for tracking daily meals and physical activities:
 
 ---
 
+### 🤖 AI & Algorithm Projects
+
+- Minimax & Expectimax AI agents
+- Pacman AI implementation
+- MDP decision systems
+- UCS & A* pathfinding algorithms
+- Reinforcement Learning grid-world project
+
+---
+
+### 🎮 Unity 3D Shooter
+
+3D shooting game developed in Unity featuring physics systems and gameplay mechanics.
+
+---
 
 ## 🎓 Certifications & Training
 
